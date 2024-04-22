@@ -1,0 +1,89 @@
+body{
+    font-family: "Arimo", sans-serif;
+}
+.first-sec{
+    background-image: url("1.png");
+}
+.h1{
+    color: red;
+    font-size: 50px;
+}
+.img{
+    height: 400px;
+    width: 400px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red ,orange);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    width: 30%;
+    display:block
+}
+.button:hover{
+    color: black;
+    font-weight:900px;
+    width:40%;
+}
+.first-div{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.second-div{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top:5%;
+}
+.second-sec{
+    background-image: url("biography.png");
+}
+#for{
+    margin-top: 10%;
+}
+.work{
+    height: 360px;
+    width: 360px;
+    
+}
+.third-div{
+    float: left;
+    padding-left:2%;
+    margin-left: 1%;
+ box-shadow: 10px 10px 40px blue;
+}
+
+section {
+    overflow: hidden;
+}
+.third-sec{
+    margin-top: 6%;
+}
+.head{
+    font-size:50px;
+}
+.wev{
+    width: 50%;
+    
+}
+.forth{
+    margin-top: 5%;
+    background-image: url("latest-work.png");
+}
+#mail{
+    font-size: 30px;
+    background-color: chartreuse;
+}
+#mail-me{
+    font-weight: bold;
+}
+.foot{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+}
